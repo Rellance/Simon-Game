@@ -1,5 +1,6 @@
 # Simon Game
 A web-based memory game "Simon Says" built using JavaScript, HTML5, and CSS3.
+[Link](https://rellance.github.io/Simon-Game/)
 
 # Features
 Interactive and colorful UI
